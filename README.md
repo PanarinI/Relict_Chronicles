@@ -14,6 +14,6 @@
 
 [Интро](Chapters/scene_intro.md)
 
-[Архивный фрагмент №1](Chapters/scene_1_getting_to_know.md)
+[Архивный фрагмент №1](Chapters/scene_1_getting_to_know_final.md)
 
 
